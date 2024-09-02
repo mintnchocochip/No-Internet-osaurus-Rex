@@ -81,7 +81,7 @@ This project was developed by:
 
 ## License
 
-[Insert chosen license here]
+GNU Public License v3.0
 
 ---
 
