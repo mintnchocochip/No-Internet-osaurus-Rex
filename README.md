@@ -74,9 +74,9 @@ Please feel free to fork the repository and submit pull requests.
 ## Team
 
 This project was developed by:
-- <a>github.com/RK18113</a>
+- <a href="https://www.github/RK18113.com">Ramakrishna and </a>
 - Palaniyappan 
-- <a>mintnchocochip <href>github.com/mintchocochip</href></a>
+- <a href= "https://github.com/mintchocochip.com">mintnchocochip</a>
 - Madhan
 
 ## License
