@@ -78,7 +78,7 @@ Please feel free to fork the repository and submit pull requests.
 3.
   ![20240426_121949](https://github.com/user-attachments/assets/9f5e297e-c79d-4bf2-9e1a-17c38b510030)
 4.
-    ![20240426_122000](https://github.com/user-attachments/assets/65c7db23-5c05-4a50-8d51-656f0ba38e4a)
+  ![20240426_122000](https://github.com/user-attachments/assets/65c7db23-5c05-4a50-8d51-656f0ba38e4a)
 ---
 ## Team
 
